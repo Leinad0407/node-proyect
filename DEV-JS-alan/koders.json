@@ -1,0 +1,24 @@
+[
+    {
+        "commentsQty": 20,
+        "date": "20 de mayo",
+        "hashtagsGroup": [{
+            "tag1":"Javascript"
+        }],
+        "reactionsQty": "50",
+        "timeRead": "2 minuts ago",
+        "title": "Backend dev",
+        "userName": "Daniel"
+    },
+    {
+        "commentsQty": 20,
+        "date": "15 de julio",
+        "hashtagsGroup": [{
+            "tag1":"Javascript"
+        }],
+        "reactionsQty": "20",
+        "timeRead": "50 minuts ago",
+        "title": "Backend dev",
+        "userName": "Ingrid"
+    }
+]

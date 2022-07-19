@@ -8,7 +8,6 @@ const postSchema = new mongoose.Schema({
   timeRead: String,
   title: String,
   userName: String,
-  //userimg//
 });
 
 const Post = mongoose.model("posts", postSchema);
